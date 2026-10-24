@@ -46,8 +46,8 @@ famous-quotes/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ahsana-kv/ahsanathesneem-famous-quotes.git
-   cd ahsanathesneem-famous-quotes
+   git clone https://github.com/ahsana-kv/famous-quotes.git
+   cd famous-quotes
    ```
 
 2. **Install dependencies:**
